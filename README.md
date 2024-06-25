@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi there 👋
+I'm Suman Shrestha,
+a passionate IT student from Nepal 🇳🇵,
+📫 How to reach me: shresthaangura@gmail.com
+⚡ Fun fact: i am in love with coding💻, drawing 🖌️, and anime 🦊.
